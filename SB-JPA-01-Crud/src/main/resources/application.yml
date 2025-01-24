@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: SB-JPA-01-Crud
+    
+  datasource:
+    url:   jdbc:mysql://localhost:3306/springboot
+    
+    username: root
+    
+    password: MYSQL
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+      
+    show-sql: true
