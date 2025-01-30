@@ -12,7 +12,7 @@
 	<artifactId>SB-JPA-06-QueryByExample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SB-JPA-06-QueryByExample</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Querry By Example</description>
 	<url/>
 	<licenses>
 		<license/>
